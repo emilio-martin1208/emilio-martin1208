@@ -1,49 +1,101 @@
 <div align="center">
 
-# Hey, I'm Emilio 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,100:8B5CF6&height=220&section=header&text=Emilio%20Martin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%26%20Indie%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
-**Founder / Indie Builder** — I design and ship full-stack products end to end, from backend pipelines to the UI people actually use.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi." alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:alfredo.martin@goldenacre.ca)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alfredo.martin@goldenacre.ca)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emilio-martin1208)
 
 </div>
 
----
+<br/>
 
-### About
+## About me
 
-I build products solo, from idea to deployed app — architecture, backend, frontend, and the AI/automation glue in between. Currently building **Shinobi**, an AI-powered video repurposing tool.
+I design and ship full-stack products end to end — solo, from architecture to backend to the UI people actually touch. I like building things that automate the boring parts of creative work, wiring LLMs into real pipelines rather than demos.
 
-### Featured project
+Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://github.com/emilio-martin1208/shinobi) from the ground up.
 
-**[Shinobi](https://github.com/emilio-martin1208/shinobi)** — turns a long-form video into multiple short-form, vertical, subtitled clips automatically, using Whisper for transcription and Claude for moment detection and metadata generation, with an AI-driven post-editing pipeline (ffmpeg + OpenCV) end to end.
+<br/>
 
-`FastAPI` `Python` `Claude API` `Whisper` `ffmpeg` `OpenCV`
+## Featured project
 
-### Tech stack
+<div align="center">
+<a href="https://github.com/emilio-martin1208/shinobi">
+  <img src="https://raw.githubusercontent.com/emilio-martin1208/shinobi/main/static/banner.png" width="85%" alt="Shinobi banner" />
+</a>
+</div>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Anthropic](https://img.shields.io/badge/-Claude%20API-8B5CF6?style=flat&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<br/>
 
-### GitHub stats
+<table>
+<tr>
+<td width="100%">
+
+### 🎬 [Shinobi](https://github.com/emilio-martin1208/shinobi)
+
+Turns a single long-form video into multiple short-form, vertical, subtitled clips — automatically. Transcribes with Whisper, finds the strongest moments with Claude, cuts and reformats to 9:16 with face-aware cropping, burns in animated word-by-word subtitles, and writes platform-ready titles, descriptions, and tags.
+
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Claude%20API-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/-ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech stack
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=emilio-martin1208&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-martin1208&layout=compact&hide_border=true)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Anthropic%20Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </div>
 
----
+<br/>
+
+## GitHub stats
 
 <div align="center">
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emilio-martin-56045738a) or [email](mailto:alfredo.martin@goldenacre.ca)
+<img src="https://github-readme-stats.vercel.app/api?username=emilio-martin1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-martin1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="38%" alt="Top languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=emilio-martin1208&theme=tokyonight&hide_border=true&background=00000000" width="60%" alt="GitHub streak" />
 
 </div>
 
+<br/>
+
+<div align="center">
+
+### 📫 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
+[![Email](https://img.shields.io/badge/-Send%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alfredo.martin@goldenacre.ca)
+
+<br/><br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=emilio-martin1208&color=8b5cf6&style=flat-square&label=Profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D0D14&height=100&section=footer" width="100%" alt="footer" />
+
+</div>
