@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=70&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="About me" />
+## About me
 
 <table border="1" width="100%">
 <tr>
@@ -35,7 +35,7 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:8B5CF6&height=70&section=header&text=Featured%20Project&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Featured project" />
+## Featured project
 
 <table border="1" width="100%">
 <tr>
@@ -64,7 +64,7 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Tech stack" />
+## Tech stack
 
 <table border="1" width="100%">
 <tr>
@@ -89,7 +89,7 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:8B5CF6&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="GitHub stats" />
+## GitHub stats
 
 <table border="1" width="100%">
 <tr>
@@ -115,7 +115,7 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=70&section=header&text=Get%20In%20Touch&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Get in touch" />
+## Get in touch
 
 <table border="1" width="100%">
 <tr>
