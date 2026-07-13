@@ -14,35 +14,42 @@
 
 <br/>
 
-## About me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=70&section=header&text=About%20Me&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="About me" />
 
+<table border="1" width="100%">
+<tr>
+<td>
+
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-stack+builder;AI+pipelines+%2B+automation;Solo+founder;Video+tooling+nerd" alt="Typing SVG" />
+</div>
 
 I design and ship full-stack products end to end — solo, from architecture to backend to the UI people actually touch. I like building things that automate the boring parts of creative work, wiring LLMs into real pipelines rather than demos.
 
 Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://github.com/emilio-martin1208/shinobi) from the ground up.
 
-<br/>
-
 <div align="center">
+<br/>
 <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/waveform.svg" width="70%" alt="waveform" />
 </div>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-## Featured project
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:8B5CF6&height=70&section=header&text=Featured%20Project&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Featured project" />
+
+<table border="1" width="100%">
+<tr>
+<td>
 
 <div align="center">
 <a href="https://github.com/emilio-martin1208/shinobi">
   <img src="https://raw.githubusercontent.com/emilio-martin1208/shinobi/main/static/banner.png" width="85%" alt="Shinobi banner" />
 </a>
 </div>
-
-<br/>
-
-<table>
-<tr>
-<td width="100%">
 
 ### [Shinobi](https://github.com/emilio-martin1208/shinobi)
 
@@ -61,13 +68,11 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:C084FC,100:8B5CF6&height=60&section=header" width="100%" alt="divider" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=70&section=header&text=Tech%20Stack&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Tech stack" />
 
-<br/>
-
-## Tech stack
+<table border="1" width="100%">
+<tr>
+<td>
 
 <div align="center">
 
@@ -82,9 +87,17 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 </div>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-## GitHub stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:8B5CF6&height=70&section=header&text=GitHub%20Stats&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="GitHub stats" />
+
+<table border="1" width="100%">
+<tr>
+<td>
 
 <div align="center">
 
@@ -100,11 +113,19 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 </div>
 
+</td>
+</tr>
+</table>
+
 <br/>
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:8B5CF6,100:6D28D9&height=70&section=header&text=Get%20In%20Touch&fontSize=26&fontColor=ffffff&fontAlignY=55" width="100%" alt="Get in touch" />
 
-### Get in touch
+<table border="1" width="100%">
+<tr>
+<td>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=560&lines=Always+down+to+talk+AI%2C+video%2C+or+startups;Open+to+interesting+collabs" alt="Typing SVG" />
 
@@ -117,6 +138,10 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 ![Profile views](https://komarev.com/ghpvc/?username=emilio-martin1208&color=8b5cf6&style=flat-square&label=Profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D0D14&height=100&section=footer" width="100%" alt="footer" />
-
 </div>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D0D14&height=100&section=footer" width="100%" alt="footer" />
