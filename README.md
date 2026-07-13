@@ -117,10 +117,6 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=emilio-martin1208&theme=tokyonight&hide_border=true&background=00000000" width="60%" alt="GitHub streak" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/output/github-contribution-grid-snake.svg" />
