@@ -20,10 +20,6 @@
 <tr>
 <td>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-stack+builder;AI+pipelines+%2B+automation;Solo+founder;Video+tooling+nerd" alt="Typing SVG" />
-</div>
-
 I design and ship full-stack products end to end — solo, from architecture to backend to the UI people actually touch. I like building things that automate the boring parts of creative work, wiring LLMs into real pipelines rather than demos.
 
 Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://github.com/emilio-martin1208/shinobi) from the ground up.
