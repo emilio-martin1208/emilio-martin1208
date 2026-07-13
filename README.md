@@ -24,6 +24,12 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/waveform.svg" width="70%" alt="waveform" />
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:0D0D14&height=60&section=header" width="100%" alt="divider" />
 
 <br/>
