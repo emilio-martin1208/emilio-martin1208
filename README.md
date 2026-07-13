@@ -74,11 +74,6 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=emilio-martin1208&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilio-martin1208&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="38%" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=emilio-martin1208&theme=tokyonight&hide_border=true&background=00000000" width="60%" alt="GitHub streak" />
 
 </div>
