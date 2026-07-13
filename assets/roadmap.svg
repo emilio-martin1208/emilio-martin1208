@@ -5,62 +5,62 @@
       <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
   </defs>
-  <line x1="44" y1="30" x2="44" y2="654" stroke="url(#roadline)" stroke-width="3" stroke-linecap="round" />
+  <line x1="44" y1="30" x2="44" y2="654" stroke="url(#roadline)" stroke-width="4" stroke-linecap="round" />
   
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0;0.0803;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.0;0.0803;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="69.0" r="9" fill="#3776AB" stroke="#3776AB" stroke-width="2.5"  />
-      <text x="70" y="63.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2019</text>
+      <text x="70" y="63.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2019</text>
       <text x="70" y="85.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#3776AB">Python</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.0584;0.1387;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.0584;0.1387;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="147.0" r="9" fill="#F0DB4F" stroke="#F0DB4F" stroke-width="2.5"  />
-      <text x="70" y="141.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2020</text>
+      <text x="70" y="141.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2020</text>
       <text x="70" y="163.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#F0DB4F">JavaScript</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1168;0.1971;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.1168;0.1971;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="225.0" r="9" fill="#ED8B00" stroke="#ED8B00" stroke-width="2.5"  />
-      <text x="70" y="219.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2021</text>
+      <text x="70" y="219.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2021</text>
       <text x="70" y="241.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#ED8B00">Java</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.1752;0.2555;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.1752;0.2555;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="303.0" r="9" fill="#3178C6" stroke="#3178C6" stroke-width="2.5"  />
-      <text x="70" y="297.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2022</text>
+      <text x="70" y="297.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2022</text>
       <text x="70" y="319.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#3178C6">TypeScript</tspan><tspan fill="#8b8b99"> + </tspan><tspan fill="#9B4F96">C#</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2336;0.3139;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.2336;0.3139;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="381.0" r="9" fill="#1572B6" stroke="#1572B6" stroke-width="2.5"  />
-      <text x="70" y="375.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2023</text>
+      <text x="70" y="375.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2023</text>
       <text x="70" y="397.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#1572B6">CSS</tspan><tspan fill="#8b8b99"> + </tspan><tspan fill="#E34F26">HTML</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.292;0.3723;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.292;0.3723;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="459.0" r="9" fill="#8A9AE0" stroke="#8A9AE0" stroke-width="2.5"  />
-      <text x="70" y="453.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2024</text>
+      <text x="70" y="453.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2024</text>
       <text x="70" y="475.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#8A9AE0">Lua</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.3504;0.4307;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.3504;0.4307;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="537.0" r="9" fill="#659AD2" stroke="#659AD2" stroke-width="2.5"  />
-      <text x="70" y="531.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2025</text>
+      <text x="70" y="531.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2025</text>
       <text x="70" y="553.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#659AD2">C++</tspan></text>
     </g>
     <g opacity="0" transform="translate(0,14)">
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4088;0.4891;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" />
       <animateTransform attributeName="transform" type="translate" values="0,14;0,14;0,0;0,0;0,14" keyTimes="0;0.4088;0.4891;0.927;1.0" dur="6.8500000000000005s" begin="0s" repeatCount="indefinite" calcMode="spline" keySplines="0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1;0.34 1.56 0.64 1" />
       <circle cx="44" cy="615.0" r="9" fill="none" stroke="#CE422B" stroke-width="2.5" stroke-dasharray="4 3" />
-      <text x="70" y="609.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e5e0ff">2026</text>
+      <text x="70" y="609.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#8B5CF6">2026</text>
       <text x="70" y="631.0" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="15" font-weight="500"><tspan fill="#CE422B">Rust</tspan><tspan fill="#8b8b99" font-style="italic" font-size="13"> (pending)</tspan></text>
     </g>
 </svg>
