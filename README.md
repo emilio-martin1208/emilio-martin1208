@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
+&nbsp;&nbsp;
+![Discord](https://img.shields.io/badge/Discord-the__dynosaur-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
 
@@ -130,6 +132,8 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 <a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
+&nbsp;&nbsp;
+![Discord](https://img.shields.io/badge/Discord-the__dynosaur-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <br/><br/>
 
