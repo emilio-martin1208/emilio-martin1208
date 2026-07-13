@@ -36,7 +36,7 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 <tr>
 <td width="100%">
 
-### 🎬 [Shinobi](https://github.com/emilio-martin1208/shinobi)
+### [Shinobi](https://github.com/emilio-martin1208/shinobi)
 
 Turns a single long-form video into multiple short-form, vertical, subtitled clips — automatically. Transcribes with Whisper, finds the strongest moments with Claude, cuts and reformats to 9:16 with face-aware cropping, burns in animated word-by-word subtitles, and writes platform-ready titles, descriptions, and tags.
 
@@ -76,13 +76,21 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <img src="https://streak-stats.demolab.com?user=emilio-martin1208&theme=tokyonight&hide_border=true&background=00000000" width="60%" alt="GitHub streak" />
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation eating the contribution graph" src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
+
 </div>
 
 <br/>
 
 <div align="center">
 
-### 📫 Get in touch
+### Get in touch
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
 [![Email](https://img.shields.io/badge/-Send%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emilio.martin1208@gmail.com)
