@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,100:8B5CF6&height=220&section=header&text=Emilio%20Martin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%2F%20Indie%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:6D28D9,100:8B5CF6&height=220&section=header&text=Emilio%20Martin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%2F%20Indie%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi." alt="Typing SVG" />
 
@@ -16,9 +16,15 @@
 
 ## About me
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-stack+builder;AI+pipelines+%2B+automation;Solo+founder;Video+tooling+nerd" alt="Typing SVG" />
+
 I design and ship full-stack products end to end — solo, from architecture to backend to the UI people actually touch. I like building things that automate the boring parts of creative work, wiring LLMs into real pipelines rather than demos.
 
 Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://github.com/emilio-martin1208/shinobi) from the ground up.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:C084FC,100:0D0D14&height=60&section=header" width="100%" alt="divider" />
 
 <br/>
 
@@ -50,6 +56,12 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:C084FC,100:8B5CF6&height=60&section=header" width="100%" alt="divider" />
+</div>
 
 <br/>
 
@@ -92,6 +104,10 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 ### Get in touch
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=560&lines=Always+down+to+talk+AI%2C+video%2C+or+startups;Open+to+interesting+collabs" alt="Typing SVG" />
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
 [![Email](https://img.shields.io/badge/-Send%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emilio.martin1208@gmail.com)
 
@@ -99,6 +115,6 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 ![Profile views](https://komarev.com/ghpvc/?username=emilio-martin1208&color=8b5cf6&style=flat-square&label=Profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0D0D14&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D0D14&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
