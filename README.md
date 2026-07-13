@@ -6,8 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emilio.martin1208@gmail.com)
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emilio-martin1208)
 
 </div>
@@ -127,8 +129,9 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilio-martin-56045738a)
-[![Email](https://img.shields.io/badge/-Send%20an%20email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:emilio.martin1208@gmail.com)
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 
 <br/><br/>
 
