@@ -100,7 +100,7 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 <td>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/roadmap.svg" width="480" alt="Programming language roadmap by year" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/roadmap.svg" width="95%" alt="Programming language roadmap by year" />
 </div>
 
 </td>
