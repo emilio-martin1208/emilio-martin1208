@@ -93,6 +93,22 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
+## Programming roadmap
+
+<table border="1" width="100%">
+<tr>
+<td>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/roadmap.svg" width="480" alt="Programming language roadmap by year" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## GitHub stats
 
 <table border="1" width="100%">
