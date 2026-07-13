@@ -9,8 +9,6 @@
 <a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
-&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emilio-martin1208)
 
 </div>
 
