@@ -46,3 +46,4 @@ I build products solo, from idea to deployed app — architecture, backend, fron
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/emilio-martin-56045738a) or [email](mailto:alfredo.martin@goldenacre.ca)
 
 </div>
+
