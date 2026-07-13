@@ -11,6 +11,8 @@
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 &nbsp;&nbsp;
 <a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
+&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://skillicons.dev/icons?i=stackoverflow" width="60" alt="Stack Overflow" /></a>
 
 </div>
 
@@ -134,6 +136,8 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 &nbsp;&nbsp;
 <a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
+&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://skillicons.dev/icons?i=stackoverflow" width="60" alt="Stack Overflow" /></a>
 
 <br/><br/>
 
