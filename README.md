@@ -10,7 +10,7 @@
 &nbsp;&nbsp;
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" />
+<a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
 
 </div>
 
@@ -133,7 +133,7 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 &nbsp;&nbsp;
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" />
+<a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
 
 <br/><br/>
 
