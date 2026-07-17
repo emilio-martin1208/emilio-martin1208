@@ -68,6 +68,53 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 
 <br/>
 
+## Game dev
+
+<table border="1" width="100%">
+<tr>
+<td>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2219,50:8B5A2B,100:FFCD5C&height=160&section=header&text=Arborio&fontSize=44&fontColor=2A2219&fontAlignY=42&desc=A%20cozy%20farming%20RPG%2C%20built%20solo%20in%20Python%20%2B%20Pygame&descAlignY=68&descSize=15&animation=fadeIn" width="100%" alt="Arborio banner" />
+
+</div>
+
+Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.com/emilio-martin1208/arborio)** as a solo hobby project — every system, sprite, and world-gen algorithm written from scratch, no game engine. What started as a small Stardew-style farm has grown into a full game: procedurally generated biomes, villages/towns/walled kingdoms, an underworld with demon combat, a base-building and production-chain economy, and — most recently — a huge ocean archipelago you cross by boat to reach tribal islands and a hidden monk temple.
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pillow-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Procedural%20Generation-8B5A2B?style=flat-square" />
+
+<br/><br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/arborio/characters.png" width="90%" alt="Arborio playable characters: Hank, Jeff, Martha, Marin" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/arborio/kingdom_shot.png" width="48%" alt="Arriving at a walled kingdom in Arborio" />
+&nbsp;
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/arborio/town_shot.png" width="48%" alt="A desert town waterfront in Arborio" />
+</div>
+
+<br/>
+
+- Hand-authored pixel-art pipeline — every sprite (trees, buildings, characters, terrain) generated procedurally through Pillow, not drawn in an editor
+- Six biomes plus a tropical archipelago, each with their own flora, settlements, and road materials
+- A farm base-building economy: construction, decay/repair, production chains, and a skill tree
+- An underworld reached through desert ruins, with real-time combat and a purification mechanic
+- Boats, docks, and a huge procedurally-carved ocean you can actually sail across
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Tech stack
 
 <table border="1" width="100%">
