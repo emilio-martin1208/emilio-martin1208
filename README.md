@@ -39,7 +39,7 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 
 <br/>
 
-## Featured project
+## Featured projects
 
 <table border="1" width="100%">
 <tr>
@@ -61,6 +61,32 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 <img src="https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/-ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table border="1" width="100%">
+<tr>
+<td>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:6D28D9,100:8B5CF6&height=160&section=header&text=Forge&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=The%20AI%20Software%20Architect&descAlignY=68&descSize=15&animation=fadeIn" width="100%" alt="Forge banner" />
+</div>
+
+### [Forge](https://github.com/emilio-martin1208/forge)
+
+Builds a deterministic understanding of a GitHub repo — languages, frameworks, routes, features, health — then generates documentation, PR reviews, and grounded context packages for coding agents like Claude Code, Cursor, and Codex from it, instead of hallucinating them. Also drafts a PRD summary and a few architecture options from a plain-language idea, for the earlier "nothing's connected yet" stage.
+
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/-Claude%20API-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" />
 
 </td>
 </tr>
