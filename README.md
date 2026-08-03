@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:6D28D9,100:8B5CF6&height=220&section=header&text=Emilio%20Martin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%2F%20Indie%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&height=90&multiline=true&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi;%3E+PRESS+START+TO+SCROLL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi." alt="Typing SVG" />
 
 <br/>
 
@@ -16,19 +16,10 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/PLAYER-ONE-6D28D9?style=flat-square&labelColor=0D0D14" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=flat-square&labelColor=0D0D14" />
-<img src="https://img.shields.io/badge/LEVEL-99-A78BFA?style=flat-square&labelColor=0D0D14" />
-<img src="https://img.shields.io/badge/CONTINUE%3F-Y%2FN-7C3AED?style=flat-square&labelColor=0D0D14" />
-
-<br/><br/>
-
-<sub>// current party</sub>
-<br/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="60" alt="Pikachu" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" width="60" alt="Eevee" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1.gif" width="60" alt="Bulbasaur" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="60" alt="Charizard" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50" alt="Pikachu" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="46" alt="Eevee" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="38" alt="Bulbasaur" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="88" alt="Charizard" />
 
 </div>
 
@@ -288,9 +279,7 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 
 <br/>
 
-<sub>// gg for now</sub>
-<br/>
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/143.gif" width="70" alt="Snorlax napping" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif" width="74" alt="Snorlax napping" />
 
 </div>
 
