@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:6D28D9,100:8B5CF6&height=220&section=header&text=Emilio%20Martin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%2F%20Indie%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&height=90&multiline=true&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi;%3E+PRESS+START+TO+SCROLL" alt="Typing SVG" />
 
 <br/>
 
@@ -14,6 +14,28 @@
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://skillicons.dev/icons?i=stackoverflow" width="60" alt="Stack Overflow" /></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PLAYER-ONE-6D28D9?style=flat-square&labelColor=0D0D14" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-8B5CF6?style=flat-square&labelColor=0D0D14" />
+<img src="https://img.shields.io/badge/LEVEL-99-A78BFA?style=flat-square&labelColor=0D0D14" />
+<img src="https://img.shields.io/badge/CONTINUE%3F-Y%2FN-7C3AED?style=flat-square&labelColor=0D0D14" />
+
+<br/><br/>
+
+<sub>// current party</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/25.gif" width="60" alt="Pikachu" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/133.gif" width="60" alt="Eevee" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/1.gif" width="60" alt="Bulbasaur" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="60" alt="Charizard" />
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
@@ -36,6 +58,12 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
 
 <br/>
 
@@ -94,6 +122,12 @@ Builds a deterministic understanding of a GitHub repo — languages, frameworks,
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
+
+<br/>
+
 ## Game dev
 
 <table border="1" width="100%">
@@ -141,6 +175,12 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
+
+<br/>
+
 ## Tech stack
 
 <table border="1" width="100%">
@@ -166,6 +206,12 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
+
+<br/>
+
 ## Programming roadmap
 
 <table border="1" width="100%">
@@ -179,6 +225,12 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
 
 <br/>
 
@@ -201,6 +253,12 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
 
 <br/>
 
@@ -227,6 +285,12 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 <br/><br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=emilio-martin1208&color=8b5cf6&style=flat-square&label=Profile+views)
+
+<br/>
+
+<sub>// gg for now</sub>
+<br/>
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/143.gif" width="70" alt="Snorlax napping" />
 
 </div>
 
