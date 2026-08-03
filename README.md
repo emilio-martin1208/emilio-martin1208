@@ -6,6 +6,13 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/484.gif" width="86" alt="Palkia" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/483.gif" width="84" alt="Dialga" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/487.gif" width="102" alt="Giratina" />
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/493.gif" width="69" alt="Arceus" />
+
+<br/>
+
 <a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
@@ -13,13 +20,6 @@
 <a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
 &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://skillicons.dev/icons?i=stackoverflow" width="60" alt="Stack Overflow" /></a>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="50" alt="Pikachu" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/133.gif" width="46" alt="Eevee" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="38" alt="Bulbasaur" />
-<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/6.gif" width="88" alt="Charizard" />
 
 </div>
 
