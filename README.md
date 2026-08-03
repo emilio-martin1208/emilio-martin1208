@@ -70,7 +70,7 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 </a>
 </div>
 
-### [Shinobi](https://github.com/emilio-martin1208/shinobi)
+### <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/shinobi/logo.png" width="24" valign="middle" alt="" /> [Shinobi](https://github.com/emilio-martin1208/shinobi)
 
 Turns a single long-form video into multiple short-form, vertical, subtitled clips — automatically. Transcribes with Whisper, finds the strongest moments with Claude, cuts and reformats to 9:16 with face-aware cropping, burns in animated word-by-word subtitles, and writes platform-ready titles, descriptions, and tags.
 
@@ -80,6 +80,12 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 <img src="https://img.shields.io/badge/-Whisper-000000?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/-ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
 <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+
+<br/><br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/shinobi/hero.jpg" width="90%" alt="Shinobi landing page" />
+</div>
 
 </td>
 </tr>
@@ -106,6 +112,12 @@ Builds a deterministic understanding of a GitHub repo — languages, frameworks,
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/-Claude%20API-8B5CF6?style=flat-square&logo=anthropic&logoColor=white" />
+
+<br/><br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/forge/overview.jpg" width="90%" alt="Forge project overview dashboard" />
+</div>
 
 </td>
 </tr>
