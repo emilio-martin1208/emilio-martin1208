@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:6D28D9,100:8B5CF6&height=220&section=header&text=Emilio%20Martin&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Founder%20%2F%20Indie%20Builder&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=16&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+AI-powered+products+solo;FastAPI+%2B+Claude+%2B+ffmpeg+%2B+a+lot+of+coffee;Currently+shipping%3A+Shinobi." alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/hero.svg" alt="emilio@shinobi-tools terminal hero" />
 
 <br/>
 
@@ -26,7 +24,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
@@ -38,12 +36,14 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## About me
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-about-me.svg" width="100%" alt="About me" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -65,12 +65,14 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## Featured projects
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-featured-projects.svg" width="100%" alt="Featured projects" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -138,12 +140,14 @@ Builds a deterministic understanding of a GitHub repo — languages, frameworks,
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## Game dev
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-game-dev.svg" width="100%" alt="Game dev" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -191,12 +195,14 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## Tech stack
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-tech-stack.svg" width="100%" alt="Tech stack" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -222,12 +228,14 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## Programming roadmap
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-roadmap.svg" width="100%" alt="Programming roadmap" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -244,12 +252,14 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## GitHub stats
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-github-stats.svg" width="100%" alt="GitHub stats" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -272,12 +282,14 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
 </div>
 
 <br/>
 
-## Get in touch
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/section-get-in-touch.svg" width="100%" alt="Get in touch" />
+</div>
 
 <table border="1" width="100%">
 <tr>
@@ -285,7 +297,7 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=560&lines=Always+down+to+talk+AI%2C+video%2C+or+startups;Open+to+interesting+collabs" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/get-in-touch-terminal.svg" alt="get in touch" />
 
 <br/>
 
@@ -311,4 +323,4 @@ Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.c
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6D28D9,100:0D0D14&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/terminal-divider.svg" width="100%" alt="divider" />
