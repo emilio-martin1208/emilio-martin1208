@@ -11,13 +11,13 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/linkedin.svg" width="56" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
+<a href="mailto:emilio.martin1208@gmail.com"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/gmail.svg" width="56" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
+<a href="https://discord.gg/EU8BY4B3S"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/discord.svg" width="56" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
 &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://skillicons.dev/icons?i=stackoverflow" width="60" alt="Stack Overflow" /></a>
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/stackoverflow.svg" width="56" alt="Stack Overflow" /></a>
 
 </div>
 
@@ -303,13 +303,13 @@ Outside of AI tooling, I build a farming RPG as a solo hobby project — every s
 
 <br/>
 
-<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/linkedin.svg" width="56" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:emilio.martin1208@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" alt="Gmail" /></a>
+<a href="mailto:emilio.martin1208@gmail.com"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/gmail.svg" width="56" alt="Gmail" /></a>
 &nbsp;&nbsp;
-<a href="https://discord.gg/EU8BY4B3S"><img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
+<a href="https://discord.gg/EU8BY4B3S"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/discord.svg" width="56" alt="Discord: the_dynosaur" title="Discord: the_dynosaur" /></a>
 &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://skillicons.dev/icons?i=stackoverflow" width="60" alt="Stack Overflow" /></a>
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/icons/stackoverflow.svg" width="56" alt="Stack Overflow" /></a>
 
 <br/><br/>
 
