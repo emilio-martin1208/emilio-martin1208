@@ -80,11 +80,11 @@ Currently deep in **AI-powered video tooling**, shipping [Shinobi](https://githu
 
 <div align="center">
 <a href="https://github.com/emilio-martin1208/shinobi">
-  <img src="https://raw.githubusercontent.com/emilio-martin1208/shinobi/main/static/banner.png" width="85%" alt="Shinobi banner" />
+  <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/banner-shinobi.svg" width="100%" alt="Shinobi banner" />
 </a>
 </div>
 
-### <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/shinobi/logo.png" width="24" valign="middle" alt="" /> [Shinobi](https://github.com/emilio-martin1208/shinobi)
+### <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/prompt-marker.svg" width="18" valign="middle" alt="" /> [Shinobi](https://github.com/emilio-martin1208/shinobi)
 
 Turns a single long-form video into multiple short-form, vertical, subtitled clips — automatically. Transcribes with Whisper, finds the strongest moments with Claude, cuts and reformats to 9:16 with face-aware cropping, burns in animated word-by-word subtitles, and writes platform-ready titles, descriptions, and tags.
 
@@ -112,10 +112,10 @@ Turns a single long-form video into multiple short-form, vertical, subtitled cli
 <td>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D14,50:6D28D9,100:8B5CF6&height=160&section=header&text=Forge&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=The%20AI%20Software%20Architect&descAlignY=68&descSize=15&animation=fadeIn" width="100%" alt="Forge banner" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/banner-forge.svg" width="100%" alt="Forge banner" />
 </div>
 
-### [Forge](https://github.com/emilio-martin1208/forge)
+### <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/prompt-marker.svg" width="18" valign="middle" alt="" /> [Forge](https://github.com/emilio-martin1208/forge)
 
 Builds a deterministic understanding of a GitHub repo — languages, frameworks, routes, features, health — then generates documentation, PR reviews, and grounded context packages for coding agents like Claude Code, Cursor, and Codex from it, instead of hallucinating them. Also drafts a PRD summary and a few architecture options from a plain-language idea, for the earlier "nothing's connected yet" stage.
 
@@ -154,12 +154,14 @@ Builds a deterministic understanding of a GitHub repo — languages, frameworks,
 <td>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2219,50:8B5A2B,100:FFCD5C&height=160&section=header&text=Arborio&fontSize=44&fontColor=2A2219&fontAlignY=42&desc=A%20cozy%20farming%20RPG%2C%20built%20solo%20in%20Python%20%2B%20Pygame&descAlignY=68&descSize=15&animation=fadeIn" width="100%" alt="Arborio banner" />
-
+<a href="https://github.com/emilio-martin1208/arborio">
+  <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/banner-arborio.svg" width="100%" alt="Arborio banner" />
+</a>
 </div>
 
-Outside of AI tooling, I build a farming RPG called **[Arborio](https://github.com/emilio-martin1208/arborio)** as a solo hobby project — every system, sprite, and world-gen algorithm written from scratch, no game engine. What started as a small Stardew-style farm has grown into a full game: procedurally generated biomes, villages/towns/walled kingdoms, an underworld with demon combat, a base-building and production-chain economy, and — most recently — a huge ocean archipelago you cross by boat to reach tribal islands and a hidden monk temple.
+### <img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/prompt-marker.svg" width="18" valign="middle" alt="" /> [Arborio](https://github.com/emilio-martin1208/arborio)
+
+Outside of AI tooling, I build a farming RPG as a solo hobby project — every system, sprite, and world-gen algorithm written from scratch, no game engine. What started as a small Stardew-style farm has grown into a full game: procedurally generated biomes, villages/towns/walled kingdoms, an underworld with demon combat, a base-building and production-chain economy, and — most recently — a huge ocean archipelago you cross by boat to reach tribal islands and a hidden monk temple.
 
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Pygame-000000?style=flat-square&logo=python&logoColor=white" />

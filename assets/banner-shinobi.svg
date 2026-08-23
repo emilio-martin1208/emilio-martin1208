@@ -1,0 +1,7 @@
+<svg width="1200" height="112" viewBox="0 0 1200 112" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="shinobi banner">
+  <rect width="100%" height="100%" fill="#0D0D14" />
+  <text x="24" y="40" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="22" xml:space="preserve">
+    <tspan fill="#8B5CF6" font-weight="700">emilio@shinobi-tools</tspan><tspan fill="#6B6580">:~$ </tspan><tspan fill="#FB7185">open shinobi</tspan>
+  </text>
+  <text x="24" y="74" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', Menlo, Consolas, monospace" font-size="22" fill="#E7E5EE" xml:space="preserve">-&gt; Turns long-form video into ready-to-post vertical clips, automatically.</text>
+</svg>
