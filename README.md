@@ -30,7 +30,7 @@
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/neofetch.svg?v=2" alt="emilio@shinobi-tools neofetch-style card" />
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/neofetch.svg?v=3" alt="emilio@shinobi-tools neofetch-style card" />
 </div>
 
 <br/>
