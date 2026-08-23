@@ -31,6 +31,18 @@
 
 <br/>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/neofetch.svg" alt="emilio@shinobi-tools neofetch-style card" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/emilio-martin1208/emilio-martin1208/main/assets/pixel-divider.svg" width="100%" alt="divider" />
+</div>
+
+<br/>
+
 ## About me
 
 <table border="1" width="100%">
