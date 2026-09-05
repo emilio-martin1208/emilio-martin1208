@@ -5,8 +5,10 @@
 <br />
 
 <a href="https://github.com/lanewayapp"><img src="https://img.shields.io/badge/BUILDING-LANEWAY-25C7D9?style=flat-square&labelColor=20233F" alt="Building Laneway" /></a>
-<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://img.shields.io/badge/LinkedIn-EEFDFC?style=flat-square&logo=linkedin&logoColor=20233F" alt="LinkedIn" /></a>
-<a href="mailto:emilio.martin1208@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-FFB000?style=flat-square&logo=gmail&logoColor=20233F" alt="Email Emilio" /></a>
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://img.shields.io/badge/LinkedIn-20233F?style=flat-square&logo=linkedin&logoColor=8CEAF0" alt="LinkedIn" /></a>
+<a href="mailto:emilio.martin1208@gmail.com"><img src="https://img.shields.io/badge/Email-20233F?style=flat-square&logo=gmail&logoColor=FFB000" alt="Email Emilio" /></a>
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://img.shields.io/badge/Stack_Overflow-20233F?style=flat-square&logo=stackoverflow&logoColor=F46A5A" alt="Stack Overflow" /></a>
+<a href="https://discord.gg/EU8BY4B3S"><img src="https://img.shields.io/badge/Discord-20233F?style=flat-square&logo=discord&logoColor=8CEAF0" alt="Discord" /></a>
 
 </div>
 
@@ -153,20 +155,10 @@ It began as a small farm and kept becoming a world. Arborio taught me that techn
 
 <sub>Calculated from GitHub's language-byte totals across my public repositories. This shows the composition of the code I have published, not a ranking of proficiency. Updated September 2026.</sub>
 
-### `TOOLKIT /` What I Reach For
+<img src="./assets/pixel-section-toolbox.svg" width="100%" alt="Toolbox" />
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-20233F?style=for-the-badge&logo=python&logoColor=FFB000" alt="Python" />
-<img src="https://img.shields.io/badge/TypeScript-20233F?style=for-the-badge&logo=typescript&logoColor=8CEAF0" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Swift-20233F?style=for-the-badge&logo=swift&logoColor=F46A5A" alt="Swift" />
-<img src="https://img.shields.io/badge/C++-20233F?style=for-the-badge&logo=cplusplus&logoColor=8CEAF0" alt="C++" />
-<br />
-<img src="https://img.shields.io/badge/FastAPI-20233F?style=for-the-badge&logo=fastapi&logoColor=25C7D9" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-20233F?style=for-the-badge&logo=postgresql&logoColor=8CEAF0" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Docker-20233F?style=for-the-badge&logo=docker&logoColor=8CEAF0" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub_Actions-20233F?style=for-the-badge&logo=githubactions&logoColor=F46A5A" alt="GitHub Actions" />
-
+<img src="./assets/toolbox-grid.svg" width="100%" alt="Emilio's toolbox: Codex, VS Code, Node.js, AWS, Cursor, Docker, GitHub Actions, PostgreSQL, FastAPI, Git, ffmpeg, and OpenCV" />
 </div>
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
@@ -175,7 +167,12 @@ It began as a small farm and kept becoming a world. Arborio taught me that techn
 
 I am early in the journey and serious about where it can go. If you are building something useful, strange, technically difficult, or all three, I would genuinely like to hear about it.
 
-**[LinkedIn](https://www.linkedin.com/in/emilio-martin-56045738a)** · **[Email](mailto:emilio.martin1208@gmail.com)** · **[Stack Overflow](https://stackoverflow.com/users/22323073/dyno-mart-46)**
+<div align="center">
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://img.shields.io/badge/LinkedIn-20233F?style=for-the-badge&logo=linkedin&logoColor=8CEAF0" alt="LinkedIn" /></a>
+<a href="mailto:emilio.martin1208@gmail.com"><img src="https://img.shields.io/badge/Email-20233F?style=for-the-badge&logo=gmail&logoColor=FFB000" alt="Email Emilio" /></a>
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="https://img.shields.io/badge/Stack_Overflow-20233F?style=for-the-badge&logo=stackoverflow&logoColor=F46A5A" alt="Stack Overflow" /></a>
+<a href="https://discord.gg/EU8BY4B3S"><img src="https://img.shields.io/badge/Discord-20233F?style=for-the-badge&logo=discord&logoColor=8CEAF0" alt="Discord" /></a>
+</div>
 
 <details>
 <summary><strong>Let the contribution creature out</strong></summary>

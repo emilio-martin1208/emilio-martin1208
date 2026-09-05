@@ -1,0 +1,31 @@
+<svg width="1200" height="620" viewBox="0 0 1200 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Emilio's toolbox</title>
+  <desc id="desc">Themed logo cards for Codex, VS Code, Node.js, AWS, Cursor, Docker, GitHub Actions, PostgreSQL, FastAPI, Git, ffmpeg, and OpenCV.</desc>
+  <defs>
+    <style>.sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}</style>
+    <g id="card"><rect width="250" height="130" rx="14" fill="#20233F" stroke="#3D5388" stroke-width="2"/><path d="M0 14V0H42V6H58V0H250V4H0Z" fill="#25C7D9"/></g>
+  </defs>
+  <rect width="1200" height="620" rx="24" fill="#17172A"/>
+  <text class="mono" x="58" y="54" fill="#8CEAF0" font-size="13" font-weight="700" letter-spacing="2">TOOLS I USE TO THINK, BUILD, AND SHIP</text>
+
+  <!-- Row 1 -->
+  <g transform="translate(58 86)"><use href="#card"/><g transform="translate(56 62)" fill="none" stroke="#8CEAF0" stroke-width="5"><circle r="22"/><path d="M-22 0L0-22L22 0L0 22Z"/><circle r="8"/></g><text class="sans" x="96" y="70" fill="#F7FBFC" font-size="20" font-weight="700">Codex</text></g>
+  <g transform="translate(336 86)"><use href="#card"/><path d="M38 50L62 32L82 40V90L62 98L38 80L52 65Z" fill="none" stroke="#8CEAF0" stroke-width="6"/><path d="M62 32V98" stroke="#25C7D9" stroke-width="5"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">VS Code</text></g>
+  <g transform="translate(614 86)"><use href="#card"/><path d="M58 30L84 45V75L58 90L32 75V45Z" fill="none" stroke="#8CEAF0" stroke-width="5"/><text class="mono" x="58" y="68" fill="#FFB000" font-size="20" font-weight="800" text-anchor="middle">JS</text><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">Node.js</text></g>
+  <g transform="translate(892 86)"><use href="#card"/><text class="sans" x="34" y="69" fill="#8CEAF0" font-size="28" font-weight="800">aws</text><path d="M35 79Q65 96 97 78" fill="none" stroke="#FFB000" stroke-width="5"/><path d="M91 76L100 76L96 85" fill="none" stroke="#FFB000" stroke-width="4"/><text class="sans" x="122" y="70" fill="#F7FBFC" font-size="20" font-weight="700">AWS</text></g>
+
+  <!-- Row 2 -->
+  <g transform="translate(58 240)"><use href="#card"/><path d="M34 30L88 66L62 72L76 98L62 104L48 78L30 96Z" fill="#8CEAF0"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">Cursor</text></g>
+  <g transform="translate(336 240)"><use href="#card"/><g fill="#25C7D9"><rect x="30" y="46" width="14" height="14"/><rect x="48" y="46" width="14" height="14"/><rect x="66" y="46" width="14" height="14"/><rect x="48" y="28" width="14" height="14"/></g><path d="M26 66H88Q84 90 56 92Q32 90 26 66Z" fill="#8CEAF0"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">Docker</text></g>
+  <g transform="translate(614 240)"><use href="#card"/><circle cx="56" cy="62" r="25" fill="none" stroke="#8CEAF0" stroke-width="5"/><circle cx="56" cy="62" r="7" fill="#FFB000"/><path d="M56 37V25M81 62H93M38 80L28 90" stroke="#25C7D9" stroke-width="5"/><text class="sans" x="98" y="62" fill="#F7FBFC" font-size="18" font-weight="700">GitHub</text><text class="sans" x="98" y="84" fill="#AAB2C8" font-size="15">Actions</text></g>
+  <g transform="translate(892 240)"><use href="#card"/><path d="M36 35Q76 25 82 60Q83 94 54 100Q28 92 34 63Q34 48 36 35Z" fill="none" stroke="#8CEAF0" stroke-width="5"/><path d="M48 52Q67 42 70 63Q68 80 52 78" fill="none" stroke="#25C7D9" stroke-width="5"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">Postgres</text></g>
+
+  <!-- Row 3 -->
+  <g transform="translate(58 394)"><use href="#card"/><circle cx="58" cy="64" r="30" fill="none" stroke="#25C7D9" stroke-width="6"/><path d="M62 35L44 66H58L52 94L75 58H61Z" fill="#8CEAF0"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">FastAPI</text></g>
+  <g transform="translate(336 394)"><use href="#card"/><path d="M58 30L90 62L58 94L26 62Z" fill="none" stroke="#F46A5A" stroke-width="6"/><circle cx="46" cy="54" r="5" fill="#8CEAF0"/><circle cx="68" cy="70" r="5" fill="#8CEAF0"/><circle cx="68" cy="46" r="5" fill="#FFB000"/><path d="M46 54L68 46M46 54L68 70" stroke="#8CEAF0" stroke-width="4"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">Git</text></g>
+  <g transform="translate(614 394)"><use href="#card"/><g fill="none" stroke-width="6"><path d="M28 40L44 64L28 88" stroke="#25C7D9"/><path d="M48 40L64 64L48 88" stroke="#8CEAF0"/><path d="M68 40L84 64L68 88" stroke="#FFB000"/></g><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">ffmpeg</text></g>
+  <g transform="translate(892 394)"><use href="#card"/><circle cx="58" cy="46" r="16" fill="none" stroke="#F46A5A" stroke-width="7"/><circle cx="42" cy="76" r="16" fill="none" stroke="#8CEAF0" stroke-width="7"/><circle cx="74" cy="76" r="16" fill="none" stroke="#25C7D9" stroke-width="7"/><text class="sans" x="108" y="70" fill="#F7FBFC" font-size="20" font-weight="700">OpenCV</text></g>
+
+  <path d="M0 574H112V558H192V590H272V566H352V598H432V574H512V606H592V582H672V598H752V570H832V590H912V566H992V598H1072V574H1152V590H1200V620H0Z" fill="#252B51"/>
+  <rect x="1" y="1" width="1198" height="618" rx="23" fill="none" stroke="#8CEAF0" stroke-opacity=".16" stroke-width="2"/>
+</svg>
