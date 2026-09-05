@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-labelledby="title desc">
+  <title id="title">Builder Pets</title>
+  <desc id="desc">An AI fox, frontend capybara, and DevOps axolotl pop up from behind a cyan line with a computer, a CSS joke, and a deploy button.</desc>
+  <style>.p{shape-rendering:crispEdges}.t{font:700 13px ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:1px}</style>
+  <defs><clipPath id="stage"><rect width="1200" height="164"/></clipPath></defs>
+  <g clip-path="url(#stage)" class="p">
+    <!-- AI fox -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 135;0 135;0 0;0 0;0 135" keyTimes="0;.03;.13;.29;.36" dur="12s" repeatCount="indefinite"/>
+      <path d="M126 91l13-28 19 24h36l19-24 13 28v65H126z" fill="#F46A5A"/>
+      <path d="M143 99h66v50h-66z" fill="#FFD1C8"/>
+      <rect x="153" y="111" width="8" height="8" fill="#171A33"/><rect x="191" y="111" width="8" height="8" fill="#171A33"/>
+      <path d="M170 124h12l-6 8z" fill="#9E3340"/>
+      <rect x="119" y="145" width="114" height="40" fill="#6F3551"/>
+      <rect x="219" y="130" width="76" height="52" fill="#34436F"/>
+      <rect x="226" y="137" width="62" height="35" fill="#171A33"/>
+      <path d="M237 154h10l8-9 8 16 7-7h8" fill="none" stroke="#25C7D9" stroke-width="5"/>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.11;.15;.28;.33;1" dur="12s" repeatCount="indefinite"/>
+      <path d="M311 77h184v46H342l-16 15 2-15h-17z" fill="#FFE3DC" stroke="#F46A5A" stroke-width="3"/>
+      <text x="332" y="105" fill="#20233F" class="t">ADDING ONE MORE AGENT.</text>
+    </g>
+
+    <!-- Frontend capybara -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 135;0 135;0 0;0 0;0 135" keyTimes="0;.36;.46;.62;.69" dur="12s" repeatCount="indefinite"/>
+      <rect x="540" y="94" width="86" height="65" fill="#A97855"/>
+      <rect x="529" y="105" width="26" height="35" fill="#C99A73"/>
+      <rect x="607" y="85" width="22" height="20" fill="#80563F"/>
+      <rect x="551" y="108" width="8" height="8" fill="#171A33"/><rect x="591" y="108" width="8" height="8" fill="#171A33"/>
+      <rect x="540" y="128" width="26" height="15" fill="#D7AE87"/><rect x="548" y="133" width="8" height="6" fill="#4A342B"/>
+      <rect x="520" y="150" width="126" height="35" fill="#315D69"/>
+      <rect x="631" y="132" width="72" height="50" fill="#34436F"/>
+      <rect x="638" y="139" width="58" height="33" fill="#171A33"/>
+      <text x="646" y="161" fill="#8CEAF0" class="t">CSS?!</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.44;.48;.61;.66;1" dur="12s" repeatCount="indefinite"/>
+      <path d="M477 74h178v45h-42l-15 15 1-15H477z" fill="#D8FAFC" stroke="#25C7D9" stroke-width="3"/>
+      <text x="500" y="102" fill="#20233F" class="t">CENTERED. SOMEHOW.</text>
+    </g>
+
+    <!-- DevOps axolotl -->
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 135;0 135;0 0;0 0;0 135" keyTimes="0;.69;.79;.94;1" dur="12s" repeatCount="indefinite"/>
+      <rect x="905" y="94" width="80" height="65" fill="#F4A9C7"/>
+      <path d="M905 105l-25-20v16l25 20zm80 0l25-20v16l-25 20z" fill="#F46A8C"/>
+      <path d="M905 125l-27-10v17l27 9zm80 0l27-10v17l-27 9z" fill="#F46A8C"/>
+      <rect x="920" y="110" width="8" height="8" fill="#171A33"/><rect x="962" y="110" width="8" height="8" fill="#171A33"/>
+      <rect x="938" y="132" width="15" height="6" fill="#B84977"/>
+      <rect x="889" y="148" width="112" height="37" fill="#34436F"/>
+      <rect x="1000" y="127" width="76" height="55" fill="#20233F" stroke="#3D4E80" stroke-width="4"/>
+      <rect x="1010" y="138" width="56" height="31" fill="#F46A5A"/>
+      <text x="1017" y="159" fill="#FFF4D0" class="t">DEPLOY</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.77;.81;.93;1" dur="12s" repeatCount="indefinite"/>
+      <path d="M718 75h174v45h31l-1 15 17-15h4V75z" fill="#FFE1EC" stroke="#F46A8C" stroke-width="3"/>
+      <text x="739" y="103" fill="#20233F" class="t">NO TESTS. BIG VIBES.</text>
+    </g>
+  </g>
+  <rect y="162" width="1200" height="4" fill="#25C7D9"/>
+  <rect x="0" y="162" width="92" height="4" fill="#8CEAF0"/><rect x="1108" y="162" width="92" height="4" fill="#FFB000"/>
+  <rect x="18" y="176" width="7" height="7" fill="#F46A5A"/><rect x="1175" y="176" width="7" height="7" fill="#25C7D9"/>
+</svg>

@@ -32,9 +32,7 @@ My curiosity wanders through **AI, cybersecurity, engineering, defence, software
 </tr>
 </table>
 
-<div align="center">
-<img src="./assets/swe-popups.svg" width="100%" alt="Four cute animated pixel software engineering characters: the local build wizard, rubber duck debugger, tiny-fix developer, and deploy goblin" />
-</div>
+<img src="./assets/pet-line-quant.svg" width="100%" alt="Animated pixel quant bull and market penguin peeking over a cyan line" />
 
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
@@ -47,6 +45,8 @@ My curiosity wanders through **AI, cybersecurity, engineering, defence, software
 Mapping systems are excellent when every path exists in their graph. The interesting failure begins at the missing edge: the unindexed airport shuttle, the walk through a terminal, the hotel van from an unsigned post, or the informal connection between two otherwise valid routes. A mapping app can return a technically possible answer that is practically useless because the real connection was never encoded.
 
 Laneway adds those missing edges without pretending certainty. Its central promise is simple:
+
+<img src="./assets/pet-line-cyber.svg" width="100%" alt="Animated pixel cybersecurity sloth and packet raccoon peeking over a cyan line" />
 
 > **Never present a fact the system cannot back up.**
 
@@ -125,6 +125,8 @@ It transcribes footage, finds promising moments, cuts and reformats them for ver
 The thesis is that an agent should not have to hallucinate the shape of a repository before it can help. Context should be assembled from the code, made inspectable, and reused.
 
 `TypeScript` `Next.js` `NestJS` `Prisma` `PostgreSQL` `Redis`
+
+<img src="./assets/pet-line-builders.svg" width="100%" alt="Animated pixel AI fox, frontend capybara, and DevOps axolotl peeking over a cyan line" />
 
 ### <img src="./assets/pixel-marker.svg" width="18" alt="" /> Arborio
 
