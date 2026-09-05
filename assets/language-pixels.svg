@@ -1,0 +1,39 @@
+<svg width="1200" height="500" viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Public repository language composition</title>
+  <desc id="desc">HTML 40.5 percent, Python 37.3 percent, TypeScript 11.9 percent, C++ 8.5 percent, and other languages 1.8 percent.</desc>
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.sans{font-family:Inter,ui-sans-serif,system-ui,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,monospace}@media(prefers-reduced-motion:reduce){.motion{display:none}}</style>
+  </defs>
+  <rect width="1200" height="500" rx="24" fill="#17172A"/>
+  <path d="M0 436H96V420H176V452H256V428H336V460H416V436H496V468H576V444H656V476H736V448H816V464H896V436H976V460H1056V428H1136V444H1200V500H0Z" fill="#252B51"/>
+
+  <g transform="translate(300 245) rotate(-90)">
+    <circle r="132" fill="none" stroke="#252B51" stroke-width="66"/>
+    <circle r="132" fill="none" stroke="#25C7D9" stroke-width="66" pathLength="100" stroke-dasharray="40.5 59.5" stroke-dashoffset="0"/>
+    <circle r="132" fill="none" stroke="#8CEAF0" stroke-width="66" pathLength="100" stroke-dasharray="37.3 62.7" stroke-dashoffset="-40.5"/>
+    <circle r="132" fill="none" stroke="#3D72A8" stroke-width="66" pathLength="100" stroke-dasharray="11.9 88.1" stroke-dashoffset="-77.8"/>
+    <circle r="132" fill="none" stroke="#F46A5A" stroke-width="66" pathLength="100" stroke-dasharray="8.5 91.5" stroke-dashoffset="-89.7"/>
+    <circle r="132" fill="none" stroke="#FFB000" stroke-width="66" pathLength="100" stroke-dasharray="1.8 98.2" stroke-dashoffset="-98.2"/>
+  </g>
+  <circle cx="300" cy="245" r="82" fill="#20233F"/>
+  <text class="mono" x="300" y="232" fill="#8CEAF0" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="2">PUBLIC CODE</text>
+  <text class="sans" x="300" y="272" fill="#F7FBFC" font-size="30" font-weight="750" text-anchor="middle">1.81 MB</text>
+  <rect class="motion" x="288" y="72" width="24" height="24" fill="#FFD766" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0 300 245" to="360 300 245" dur="10s" repeatCount="indefinite"/>
+  </rect>
+
+  <g transform="translate(560 98)" class="sans">
+    <text x="0" y="0" fill="#F7FBFC" font-size="26" font-weight="750">What I Have Shipped In</text>
+    <text x="0" y="34" fill="#858EAC" font-size="15">Measured from code bytes in public repositories</text>
+    <g transform="translate(0 78)">
+      <rect width="22" height="22" fill="#25C7D9"/><text x="38" y="18" fill="#F7FBFC" font-size="18" font-weight="650">HTML</text><text x="500" y="18" fill="#8CEAF0" font-size="18" font-weight="750" text-anchor="end">40.5%</text>
+      <rect y="50" width="22" height="22" fill="#8CEAF0"/><text x="38" y="68" fill="#F7FBFC" font-size="18" font-weight="650">Python</text><text x="500" y="68" fill="#8CEAF0" font-size="18" font-weight="750" text-anchor="end">37.3%</text>
+      <rect y="100" width="22" height="22" fill="#3D72A8"/><text x="38" y="118" fill="#F7FBFC" font-size="18" font-weight="650">TypeScript</text><text x="500" y="118" fill="#8CEAF0" font-size="18" font-weight="750" text-anchor="end">11.9%</text>
+      <rect y="150" width="22" height="22" fill="#F46A5A"/><text x="38" y="168" fill="#F7FBFC" font-size="18" font-weight="650">C++</text><text x="500" y="168" fill="#8CEAF0" font-size="18" font-weight="750" text-anchor="end">8.5%</text>
+      <rect y="200" width="22" height="22" fill="#FFB000"/><text x="38" y="218" fill="#F7FBFC" font-size="18" font-weight="650">Other</text><text x="500" y="218" fill="#FFD766" font-size="18" font-weight="750" text-anchor="end">1.8%</text>
+      <text class="mono" x="0" y="254" fill="#737D9B" font-size="11">JS · ASM · CSS · CMAKE · DOCKERFILE · C · SHELL</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1198" height="498" rx="23" fill="none" stroke="#8CEAF0" stroke-opacity=".16" stroke-width="2"/>
+</svg>

@@ -10,7 +10,9 @@
 
 </div>
 
-## Hello, I Am Emilio
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
+
+<img src="./assets/pixel-section-about.svg" width="100%" alt="About Emilio" />
 
 I am a product engineer, indie builder, and future engineering and computer science student. I am interested in what happens when software leaves the demo and has to become dependable: when the interface must make sense, the backend must survive real input, and an AI system has to admit what it does not know.
 
@@ -28,9 +30,11 @@ My curiosity wanders through **AI, cybersecurity, engineering, defence, software
 </tr>
 </table>
 
-## Laneway
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-### The Route Between the Routes
+<img src="./assets/pixel-section-laneway.svg" width="100%" alt="Laneway" />
+
+### `01 /` The Route Between the Routes
 
 [Laneway](https://github.com/lanewayapp) is a Canada-first, native iOS navigation product for journeys ordinary maps cannot fully see.
 
@@ -44,13 +48,13 @@ Laneway adds those missing edges without pretending certainty. Its central promi
 <img src="./assets/laneway-trust-loop.svg" width="100%" alt="A source-backed claim moving through Laneway's planning and verification system" />
 </div>
 
-### The Hard Case
+### `02 /` The Hard Case
 
 Land at Toronto Pearson Terminal 1 and travel to an off-airport rental depot. The useful route might include an indoor level change, the LINK train, terminal navigation, an operator shuttle from a particular post, and a final walk. Several of those edges do not exist in conventional road or transit data. Without them, the answer degrades into a long perimeter walk or a driving route for someone who does not yet have a car.
 
 Laneway is designed around that kind of trip, not around the easy route that every map already solves.
 
-### Trust Is a Product Feature
+### `03 /` Trust Is a Product Feature
 
 Every factual claim carries its source and fetch time. Verification is allowed to return **supported**, **contradicted**, or **unsupported**. When sources fail, the route becomes partial and names the unknown leg. When sources conflict, the conflict is visible. When cached information is used, its age is visible.
 
@@ -82,7 +86,7 @@ Turn the verified plan into the surface people live in: a native iOS experience,
 </tr>
 </table>
 
-### How It Is Built
+### `04 /` How It Is Built
 
 `Swift` `SwiftUI` `Python` `FastAPI` `PostgreSQL` `Redis` `Google Routes` `GTFS` `Anthropic`
 
@@ -90,9 +94,11 @@ The architecture separates a slower reasoning loop from fast deterministic execu
 
 I contribute across the product: engine behavior, native interface, verification surfaces, mobility features, and the engineering details that keep the story honest from API response to screen.
 
-## The Other Things I Build
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
-### Shinobi
+<img src="./assets/pixel-section-projects.svg" width="100%" alt="Selected projects" />
+
+### <img src="./assets/pixel-marker.svg" width="18" alt="" /> Shinobi
 
 [Shinobi](https://github.com/emilio-martin1208/shinobi) asks a practical creative question: how much of the repetitive work between a long video and a finished short can software handle well?
 
@@ -106,7 +112,7 @@ It transcribes footage, finds promising moments, cuts and reformats them for ver
 <a href="https://github.com/emilio-martin1208/shinobi"><img src="./assets/shinobi/hero.jpg" width="100%" alt="Shinobi video editing workspace" /></a>
 </details>
 
-### Forge
+### <img src="./assets/pixel-marker.svg" width="18" alt="" /> Forge
 
 [Forge](https://github.com/emilio-martin1208/forge) is repository intelligence for coding agents. It builds a deterministic picture of a codebase: languages, frameworks, routes, features, dependencies, and health. That grounded model becomes documentation, reviews, architecture context, and better inputs for tools such as Codex and Cursor.
 
@@ -114,7 +120,7 @@ The thesis is that an agent should not have to hallucinate the shape of a reposi
 
 `TypeScript` `Next.js` `NestJS` `Prisma` `PostgreSQL` `Redis`
 
-### Arborio
+### <img src="./assets/pixel-marker.svg" width="18" alt="" /> Arborio
 
 [Arborio](https://github.com/emilio-martin1208/arborio) is where the childlike part gets the whole screen. It is a farming RPG built from scratch in Python without a game engine: procedural biomes, villages, walled kingdoms, an underworld, combat, boats, production chains, base building, and a code-generated pixel-art pipeline.
 
@@ -137,7 +143,17 @@ It began as a small farm and kept becoming a world. Arborio taught me that techn
 </tr>
 </table>
 
-## The Toolkit
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
+
+<img src="./assets/pixel-section-languages.svg" width="100%" alt="Language composition" />
+
+<div align="center">
+<img src="./assets/language-pixels.svg" width="100%" alt="Language composition across Emilio's public GitHub repositories: HTML 40.5%, Python 37.3%, TypeScript 11.9%, C++ 8.5%, and other languages 1.8%" />
+</div>
+
+<sub>Calculated from GitHub's language-byte totals across my public repositories. This shows the composition of the code I have published, not a ranking of proficiency. Updated September 2026.</sub>
+
+### `TOOLKIT /` What I Reach For
 
 <div align="center">
 
@@ -153,7 +169,9 @@ It began as a small farm and kept becoming a world. Arborio taught me that techn
 
 </div>
 
-## Say Hello
+<img src="./assets/pixel-divider.svg" width="100%" alt="" />
+
+<img src="./assets/pixel-section-contact.svg" width="100%" alt="Say hello" />
 
 I am early in the journey and serious about where it can go. If you are building something useful, strange, technically difficult, or all three, I would genuinely like to hear about it.
 
