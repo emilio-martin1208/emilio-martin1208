@@ -1,55 +1,96 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Emilio Martin, product engineer and indie builder</title>
-  <desc id="desc">A dark purple and coral banner connecting product, systems, and creative code.</desc>
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Emilio Martin, building products worth trusting</title>
+  <desc id="desc">An original pixel-art guardian watches a golden idea travel through a cyan route from question to shipped product.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#09090F"/>
-      <stop offset="0.52" stop-color="#121024"/>
-      <stop offset="1" stop-color="#160D1A"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17172A"/>
+      <stop offset="0.62" stop-color="#20233F"/>
+      <stop offset="1" stop-color="#301F35"/>
     </linearGradient>
-    <linearGradient id="accent" x1="72" y1="78" x2="793" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A78BFA"/>
-      <stop offset="0.55" stop-color="#C084FC"/>
-      <stop offset="1" stop-color="#FB7185"/>
-    </linearGradient>
-    <linearGradient id="glow" x1="778" y1="49" x2="1107" y2="377" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#8B5CF6" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#FB7185" stop-opacity="0.08"/>
-    </linearGradient>
-    <filter id="blur" x="664" y="-64" width="600" height="600" filterUnits="userSpaceOnUse">
-      <feGaussianBlur stdDeviation="70"/>
-    </filter>
-    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
-      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    <pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" fill="none" stroke="#8CEAF0" stroke-opacity="0.035"/>
     </pattern>
+    <filter id="cyanGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="goldGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+      .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+      @media (prefers-reduced-motion: reduce) { .motion { display: none; } }
+    </style>
   </defs>
 
-  <rect width="1200" height="420" rx="24" fill="url(#background)"/>
-  <rect width="1200" height="420" rx="24" fill="url(#grid)"/>
-  <circle cx="964" cy="186" r="230" fill="url(#glow)" filter="url(#blur)"/>
+  <rect width="1200" height="520" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="520" rx="28" fill="url(#grid)"/>
 
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <rect x="72" y="66" width="54" height="8" rx="4" fill="#A78BFA"/>
-    <rect x="132" y="66" width="18" height="8" rx="4" fill="#FB7185"/>
-    <text x="72" y="144" fill="#F7F5FF" font-size="58" font-weight="700" letter-spacing="-2">Emilio Martin</text>
-    <text x="74" y="193" fill="url(#accent)" font-size="24" font-weight="600">PRODUCT ENGINEER / INDIE BUILDER</text>
-    <text x="74" y="251" fill="#B8B4C7" font-size="20">I build the whole thing.</text>
-    <text x="74" y="283" fill="#77728A" font-size="18">AI systems · useful products · creative code</text>
+  <!-- Childlike pixel landscape -->
+  <path d="M0 432H80V416H144V448H208V424H272V456H336V432H400V464H464V440H528V520H0Z" fill="#252B51"/>
+  <path d="M0 472H112V448H176V480H240V456H304V488H368V464H448V488H528V520H0Z" fill="#344579"/>
+  <path d="M0 496H144V480H224V504H320V480H416V504H528V520H0Z" fill="#287DA4" opacity="0.7"/>
 
-    <g transform="translate(790 72)">
-      <path d="M55 70C110 14 203 10 266 54C329 98 328 194 260 239C192 284 101 268 64 209" stroke="#A78BFA" stroke-opacity="0.34" stroke-width="2" stroke-dasharray="7 9"/>
-      <path d="M57 71L148 146L260 238" stroke="#F7F5FF" stroke-opacity="0.18" stroke-width="2"/>
-      <circle cx="55" cy="70" r="34" fill="#17132A" stroke="#A78BFA" stroke-width="2"/>
-      <circle cx="148" cy="146" r="42" fill="#17132A" stroke="#C084FC" stroke-width="2"/>
-      <circle cx="260" cy="238" r="34" fill="#21121F" stroke="#FB7185" stroke-width="2"/>
-      <circle cx="55" cy="70" r="7" fill="#A78BFA"/>
-      <circle cx="148" cy="146" r="9" fill="#C084FC"/>
-      <circle cx="260" cy="238" r="7" fill="#FB7185"/>
-      <text x="55" y="125" fill="#8E899F" font-size="14" text-anchor="middle">PRODUCT</text>
-      <text x="148" y="209" fill="#8E899F" font-size="14" text-anchor="middle">SYSTEMS</text>
-      <text x="260" y="293" fill="#8E899F" font-size="14" text-anchor="middle">CRAFT</text>
+  <!-- Editorial identity -->
+  <g transform="translate(64 62)">
+    <g class="mono" font-size="13" font-weight="700" letter-spacing="2">
+      <rect width="212" height="30" rx="15" fill="#8CEAF0"/>
+      <text x="18" y="20" fill="#17172A">EMILIO / BUILD 001</text>
+    </g>
+    <text class="sans" x="0" y="102" fill="#F7FBFC" font-size="62" font-weight="750" letter-spacing="-2">Emilio Martin</text>
+    <text class="sans" x="0" y="152" fill="#8CEAF0" font-size="24" font-weight="650">Product engineer. Systems thinker. World builder.</text>
+    <text class="sans" x="0" y="209" fill="#C7CEDF" font-size="20">Building serious technology with a sense of wonder.</text>
+    <text class="sans" x="0" y="241" fill="#858EAC" font-size="17">AI · native products · creative tools · games</text>
+
+    <g transform="translate(0 294)" class="mono" font-size="12" font-weight="700" letter-spacing="1.3">
+      <text x="0" y="0" fill="#858EAC">QUESTION</text>
+      <text x="137" y="0" fill="#858EAC">EVIDENCE</text>
+      <text x="283" y="0" fill="#858EAC">TRUST</text>
+      <text x="402" y="0" fill="#F7FBFC">SHIP</text>
+      <path d="M8 28H430" stroke="#3D5388" stroke-width="4" stroke-linecap="square"/>
+      <rect x="4" y="22" width="12" height="12" fill="#A83A3D"/>
+      <rect x="153" y="22" width="12" height="12" fill="#25C7D9"/>
+      <rect x="297" y="22" width="12" height="12" fill="#8CEAF0"/>
+      <rect x="426" y="22" width="12" height="12" fill="#FFB000"/>
+      <rect class="motion" x="0" y="0" width="12" height="12" fill="#FFD766" filter="url(#goldGlow)">
+        <animateMotion dur="6s" repeatCount="indefinite" path="M10 28 H159 H303 H432" keyTimes="0;0.34;0.68;1" calcMode="linear"/>
+      </rect>
     </g>
   </g>
 
-  <rect x="1" y="1" width="1198" height="418" rx="23" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="2"/>
+  <!-- Original pixel guardian: the trust boundary -->
+  <g transform="translate(690 26)">
+    <path d="M208 0H368V32H416V80H464V160H496V272H464V352H416V400H336V432H208V400H144V368H96V320H64V240H32V144H64V96H112V48H208Z" fill="#292846"/>
+    <path d="M112 48H208V16H352V48H400V96H448V176H480V272H448V336H400V384H320V416H224V384H160V352H112V304H80V224H48V144H80V96H112Z" fill="#344579"/>
+    <path d="M80 80H144V48H224V80H272V112H320V160H352V240H320V304H288V336H208V320H144V288H96V240H64V160H32V112H80Z" fill="#3C5E91"/>
+    <path d="M336 48H400V80H432V144H464V240H432V320H400V352H368V288H336V224H304V144H272V96H336Z" fill="#287DA4"/>
+    <path d="M384 96H416V160H448V256H416V304H384V240H368V176H352V128H384Z" fill="#25C7D9"/>
+    <path d="M400 112H416V176H432V240H416V272H400V224H384V160H368V128H400Z" fill="#8CEAF0"/>
+    <path d="M112 96H176V80H240V112H288V144H320V208H288V256H256V288H192V272H144V240H112V192H80V128H112Z" fill="#2B2B51"/>
+    <path d="M144 128H208V112H256V144H288V208H256V240H192V224H160V192H128V160H144Z" fill="#20233F"/>
+
+    <!-- Horns and playful silhouette -->
+    <path d="M128 96H96V64H64V16H96V32H128V64H160V96Z" fill="#A83A3D"/>
+    <path d="M288 96H320V64H352V16H320V32H288V64H256V96Z" fill="#A83A3D"/>
+    <path d="M96 64H64V32H32V0H80V16H112V48H128V80H96Z" fill="#F46A5A" opacity="0.55"/>
+
+    <!-- Eye: watches the claim, blinks intentionally -->
+    <rect x="178" y="154" width="54" height="38" fill="#F7FBFC"/>
+    <rect x="194" y="154" width="22" height="38" fill="#FFB000"/>
+    <rect x="202" y="154" width="14" height="38" fill="#17172A"/>
+    <rect class="motion" x="178" y="154" width="54" height="38" fill="#2B2B51" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.82;0.86;0.9;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Cyan route current -->
+    <path d="M16 304H64V336H112V368H176V400H256" fill="none" stroke="#25C7D9" stroke-width="16" stroke-linecap="square" filter="url(#cyanGlow)"/>
+    <path d="M16 304H64V336H112V368H176V400H256" fill="none" stroke="#8CEAF0" stroke-width="5" stroke-linecap="square">
+      <animate class="motion" attributeName="stroke-opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+    </path>
+    <rect x="248" y="392" width="16" height="16" fill="#FFD766" filter="url(#goldGlow)"/>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="518" rx="27" fill="none" stroke="#8CEAF0" stroke-opacity="0.16" stroke-width="2"/>
 </svg>
