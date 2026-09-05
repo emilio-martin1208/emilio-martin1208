@@ -32,6 +32,10 @@ My curiosity wanders through **AI, cybersecurity, engineering, defence, software
 </tr>
 </table>
 
+<div align="center">
+<img src="./assets/swe-popups.svg" width="100%" alt="Four cute animated pixel software engineering characters: the local build wizard, rubber duck debugger, tiny-fix developer, and deploy goblin" />
+</div>
+
 <img src="./assets/pixel-divider.svg" width="100%" alt="" />
 
 <img src="./assets/pixel-section-laneway.svg" width="100%" alt="Laneway" />
