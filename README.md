@@ -28,28 +28,28 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 ## Tech stack
 
 <div align="center">
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=python&logoColor=8CEAF0" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=typescript&logoColor=8CEAF0" height="36" alt="TypeScript" /></a>
-<a href="https://www.swift.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=swift&logoColor=8CEAF0" height="36" alt="Swift" /></a>
-<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=cplusplus&logoColor=8CEAF0" height="36" alt="C++" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=fastapi&logoColor=8CEAF0" height="36" alt="FastAPI" /></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=nextdotjs&logoColor=8CEAF0" height="36" alt="Next.js" /></a>
-<a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=nestjs&logoColor=8CEAF0" height="36" alt="NestJS" /></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=postgresql&logoColor=8CEAF0" height="36" alt="PostgreSQL" /></a>
-<a href="https://redis.io/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=redis&logoColor=8CEAF0" height="36" alt="Redis" /></a>
-<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=prisma&logoColor=8CEAF0" height="36" alt="Prisma" /></a>
-<a href="https://www.microsoft.com/microsoft-365/excel"><img src="./assets/icons/excel.svg" height="36" alt="Microsoft Excel" /></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=nodedotjs&logoColor=8CEAF0" height="36" alt="Node.js" /></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=docker&logoColor=8CEAF0" height="36" alt="Docker" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=git&logoColor=8CEAF0" height="36" alt="Git" /></a>
-<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=githubactions&logoColor=8CEAF0" height="36" alt="GitHub Actions" /></a>
-<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=anthropic&logoColor=8CEAF0" height="36" alt="Anthropic" /></a>
-<a href="https://openai.com/codex/"><img src="./assets/icons/codex.svg" height="36" alt="Codex" /></a>
-<a href="https://opencv.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=opencv&logoColor=8CEAF0" height="36" alt="OpenCV" /></a>
-<a href="https://ffmpeg.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=ffmpeg&logoColor=8CEAF0" height="36" alt="FFmpeg" /></a>
-<a href="https://www.raylib.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=raylib&logoColor=8CEAF0" height="36" alt="raylib" /></a>
-<a href="https://www.cursor.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=cursor&logoColor=8CEAF0" height="36" alt="Cursor" /></a>
-<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=figma&logoColor=8CEAF0" height="36" alt="Figma" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=python&logoColor=8CEAF0" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=typescript&logoColor=8CEAF0" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.swift.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=swift&logoColor=8CEAF0" width="36" height="36" alt="Swift" /></a>
+<a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=cplusplus&logoColor=8CEAF0" width="36" height="36" alt="C++" /></a>
+<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=fastapi&logoColor=8CEAF0" width="36" height="36" alt="FastAPI" /></a>
+<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=nextdotjs&logoColor=8CEAF0" width="36" height="36" alt="Next.js" /></a>
+<a href="https://nestjs.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=nestjs&logoColor=8CEAF0" width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=postgresql&logoColor=8CEAF0" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=redis&logoColor=8CEAF0" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=prisma&logoColor=8CEAF0" width="36" height="36" alt="Prisma" /></a>
+<a href="https://www.microsoft.com/microsoft-365/excel"><img src="./assets/icons/excel.svg" width="36" height="36" alt="Microsoft Excel" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=nodedotjs&logoColor=8CEAF0" width="36" height="36" alt="Node.js" /></a>
+<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=docker&logoColor=8CEAF0" width="36" height="36" alt="Docker" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=git&logoColor=8CEAF0" width="36" height="36" alt="Git" /></a>
+<a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=githubactions&logoColor=8CEAF0" width="36" height="36" alt="GitHub Actions" /></a>
+<a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=anthropic&logoColor=8CEAF0" width="36" height="36" alt="Anthropic" /></a>
+<a href="https://openai.com/codex/"><img src="./assets/icons/codex.svg" width="36" height="36" alt="Codex" /></a>
+<a href="https://opencv.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=opencv&logoColor=8CEAF0" width="36" height="36" alt="OpenCV" /></a>
+<a href="https://ffmpeg.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=ffmpeg&logoColor=8CEAF0" width="36" height="36" alt="FFmpeg" /></a>
+<a href="https://www.raylib.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=raylib&logoColor=8CEAF0" width="36" height="36" alt="raylib" /></a>
+<a href="https://www.cursor.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=cursor&logoColor=8CEAF0" width="36" height="36" alt="Cursor" /></a>
+<a href="https://www.figma.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=figma&logoColor=8CEAF0" width="36" height="36" alt="Figma" /></a>
 </div>
 
 ## Languages
