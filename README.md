@@ -25,7 +25,7 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 | [Arborio](https://github.com/emilio-martin1208/arborio) | A procedural farming RPG, built from scratch without an engine. | Python · Pygame · Pillow |
 | [Retro Racer](https://github.com/emilio-martin1208/retro-racer) | Early-2000s arcade racing experiment. | C++ · raylib |
 
-## Tech stack
+## Tool Box
 
 <div align="center">
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=python&logoColor=8CEAF0" width="36" height="36" alt="Python" /></a>
