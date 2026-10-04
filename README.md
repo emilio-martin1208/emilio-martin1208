@@ -8,7 +8,7 @@
 
 I build end-to-end products: product direction, interfaces, APIs, model behaviour, infrastructure, and the details that make a system feel considered. I care about trustworthy AI, calm interfaces, and software that holds up outside the demo.
 
-## Building
+## Co-Founding Growth
 
 ### [Laneway](https://lanewayapp.github.io)
 
