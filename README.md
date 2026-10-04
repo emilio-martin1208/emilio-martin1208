@@ -44,7 +44,7 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=git&logoColor=8CEAF0" height="36" alt="Git" /></a>
 <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=githubactions&logoColor=8CEAF0" height="36" alt="GitHub Actions" /></a>
 <a href="https://www.anthropic.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=anthropic&logoColor=8CEAF0" height="36" alt="Anthropic" /></a>
-<a href="https://openai.com/"><img src="./assets/icons/openai.svg" height="36" alt="OpenAI" /></a>
+<a href="https://openai.com/codex/"><img src="./assets/icons/codex.svg" height="36" alt="Codex" /></a>
 <a href="https://opencv.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=opencv&logoColor=8CEAF0" height="36" alt="OpenCV" /></a>
 <a href="https://ffmpeg.org/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=ffmpeg&logoColor=8CEAF0" height="36" alt="FFmpeg" /></a>
 <a href="https://www.raylib.com/"><img src="https://img.shields.io/badge/-20233F?style=flat-square&logo=raylib&logoColor=8CEAF0" height="36" alt="raylib" /></a>

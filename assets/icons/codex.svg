@@ -1,0 +1,8 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Codex">
+  <rect x="1" y="1" width="54" height="54" fill="#20233F" stroke="#3D5388" stroke-width="1.5"/>
+  <g fill="none" stroke="#8CEAF0" stroke-width="3.6">
+    <circle cx="28" cy="28" r="15"/>
+    <path d="M13 28L28 13L43 28L28 43Z"/>
+  </g>
+  <circle cx="28" cy="28" r="5.5" fill="#25C7D9"/>
+</svg>
