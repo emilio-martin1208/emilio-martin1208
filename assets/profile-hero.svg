@@ -1,10 +1,10 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Emilio Martin — product engineer</title>
-  <desc id="desc">A minimal editorial header for Emilio Martin's GitHub profile.</desc>
+  <desc id="desc">A compact deep-indigo title card with cyan and amber accents.</desc>
   <defs>
-    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#17172A"/>
-      <stop offset="1" stop-color="#20233F"/>
+    <linearGradient id="surface" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20233F"/>
+      <stop offset="1" stop-color="#17172A"/>
     </linearGradient>
     <style>
       .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -12,29 +12,18 @@
     </style>
   </defs>
 
-  <rect width="1200" height="420" fill="url(#surface)"/>
-  <rect x="1" y="1" width="1198" height="418" fill="none" stroke="#8CEAF0" stroke-opacity="0.16" stroke-width="2"/>
-  <path d="M64 88H1136" stroke="#8CEAF0" stroke-opacity="0.24"/>
-  <path d="M64 332H1136" stroke="#8CEAF0" stroke-opacity="0.24"/>
+  <rect width="1200" height="260" fill="url(#surface)"/>
+  <rect x="1" y="1" width="1198" height="258" fill="none" stroke="#8CEAF0" stroke-opacity="0.18" stroke-width="2"/>
+  <rect x="64" y="54" width="5" height="152" fill="#25C7D9"/>
 
-  <g class="mono" font-size="12" font-weight="700" letter-spacing="2.2">
-    <text x="64" y="60" fill="#8CEAF0">EMILIO MARTIN</text>
-    <text x="1136" y="60" fill="#858EAC" text-anchor="end">PRODUCT ENGINEER / 2026</text>
-  </g>
+  <text class="mono" x="96" y="82" fill="#8CEAF0" font-size="12" font-weight="700" letter-spacing="2.2">EMILIO MARTIN</text>
+  <text class="sans" x="96" y="145" fill="#F7FBFC" font-size="48" font-weight="700" letter-spacing="-1.8">Building dependable software.</text>
+  <text class="sans" x="96" y="184" fill="#C7CEDF" font-size="19">Product engineer · AI systems · native products · creative tools</text>
 
-  <text class="sans" x="64" y="191" fill="#F7FBFC" font-size="64" font-weight="700" letter-spacing="-2.5">Building dependable software.</text>
-  <text class="sans" x="64" y="236" fill="#C7CEDF" font-size="22" font-weight="450">AI systems, native products, creative tools, and games.</text>
-
-  <g transform="translate(64 286)">
-    <circle cx="6" cy="6" r="6" fill="#25C7D9"/>
-    <text class="mono" x="24" y="10" fill="#8CEAF0" font-size="12" font-weight="700" letter-spacing="1.8">CURRENTLY BUILDING LANEWAY</text>
-  </g>
-
-  <g transform="translate(1054 266)">
-    <path d="M0 56H82" stroke="#25C7D9" stroke-width="2"/>
-    <path d="M82 0V56" stroke="#25C7D9" stroke-width="2"/>
-    <path d="M18 38H64" stroke="#FFB000" stroke-width="2"/>
-    <circle cx="18" cy="38" r="5" fill="#FFB000"/>
-    <circle cx="64" cy="38" r="5" fill="#8CEAF0"/>
+  <g transform="translate(1052 66)">
+    <text class="mono" x="0" y="0" fill="#858EAC" font-size="12" font-weight="700" letter-spacing="1.8">CURRENT</text>
+    <text class="sans" x="0" y="37" fill="#F7FBFC" font-size="20" font-weight="650">Laneway</text>
+    <path d="M0 62H84" stroke="#25C7D9" stroke-width="2"/>
+    <circle cx="84" cy="62" r="5" fill="#FFB000"/>
   </g>
 </svg>

@@ -1,8 +1,4 @@
-# Emilio Martin
-
-**Product engineer building dependable software.**
-
-AI systems · native products · creative tools · games
+<img src="./assets/profile-hero.svg" width="100%" alt="Emilio Martin — product engineer building dependable software" />
 
 <a href="https://github.com/lanewayapp"><img src="https://img.shields.io/badge/BUILDING-LANEWAY-25C7D9?style=flat-square&labelColor=20233F" alt="Building Laneway" /></a>
 <a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://img.shields.io/badge/LinkedIn-20233F?style=flat-square&logo=linkedin&logoColor=8CEAF0" alt="LinkedIn" /></a>
