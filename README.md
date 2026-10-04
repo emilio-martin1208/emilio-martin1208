@@ -25,7 +25,7 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 | [Arborio](https://github.com/emilio-martin1208/arborio) | A procedural farming RPG, built from scratch without an engine. | Python · Pygame · Pillow |
 | [Retro Racer](https://github.com/emilio-martin1208/retro-racer) | Early-2000s arcade racing experiment. | C++ · raylib |
 
-## Language composition
+## Languages
 
 <img src="./assets/language-pixels.svg" width="100%" alt="Language composition across Emilio's public GitHub repositories: HTML 40.5%, Python 37.3%, TypeScript 11.9%, C++ 8.5%, and other languages 1.8%" />
 
