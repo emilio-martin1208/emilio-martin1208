@@ -1,0 +1,5 @@
+<svg width="56" height="56" viewBox="0 0 56 56" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Laneway">
+  <rect x="1" y="1" width="54" height="54" rx="10" fill="#F2EFE6" stroke="#D9D4C7" stroke-width="1.5"/>
+  <path d="M18 43Q18 22 28 22Q38 22 38 10" stroke="#E89E2E" stroke-width="5.6" fill="none" stroke-linecap="round"/>
+  <circle cx="18" cy="43" r="4.5" fill="#E89E2E"/>
+</svg>

@@ -1,14 +1,16 @@
 <img src="./assets/profile-hero.svg" width="100%" alt="Emilio Martin — product engineer building dependable software" />
 
-<a href="https://github.com/lanewayapp"><img src="https://img.shields.io/badge/BUILDING-LANEWAY-25C7D9?style=flat-square&labelColor=20233F" alt="Building Laneway" /></a>
-<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="https://img.shields.io/badge/LinkedIn-20233F?style=flat-square&logo=linkedin&logoColor=8CEAF0" alt="LinkedIn" /></a>
-<a href="mailto:emilio.martin1208@gmail.com"><img src="https://img.shields.io/badge/Email-20233F?style=flat-square&logo=gmail&logoColor=FFB000" alt="Email Emilio" /></a>
+<a href="https://lanewayapp.github.io"><img src="./assets/icons/laneway.svg" width="36" alt="Laneway" /></a>
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="./assets/icons/linkedin.svg" width="36" alt="LinkedIn" /></a>
+<a href="mailto:emilio.martin1208@gmail.com"><img src="./assets/icons/gmail.svg" width="36" alt="Email Emilio" /></a>
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="./assets/icons/stackoverflow.svg" width="36" alt="Stack Overflow" /></a>
+<a href="https://discord.gg/EU8BY4B3S"><img src="./assets/icons/discord.svg" width="36" alt="Discord" /></a>
 
 I build end-to-end products: product direction, interfaces, APIs, model behaviour, infrastructure, and the details that make a system feel considered. I care about trustworthy AI, calm interfaces, and software that holds up outside the demo.
 
 ## Building
 
-### [Laneway](https://github.com/lanewayapp)
+### [Laneway](https://lanewayapp.github.io)
 
 Canada-first navigation for journeys that ordinary maps miss. Laneway connects the real-world edges between routes—terminal navigation, airport shuttles, hotel vans—while showing what the system can and cannot verify.
 
@@ -31,4 +33,7 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/emilio-martin-56045738a) · [Email](mailto:emilio.martin1208@gmail.com) · [Stack Overflow](https://stackoverflow.com/users/22323073/dyno-mart-46) · [Discord](https://discord.gg/EU8BY4B3S)
+<a href="https://www.linkedin.com/in/emilio-martin-56045738a"><img src="./assets/icons/linkedin.svg" width="32" alt="LinkedIn" /></a>
+<a href="mailto:emilio.martin1208@gmail.com"><img src="./assets/icons/gmail.svg" width="32" alt="Email Emilio" /></a>
+<a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="./assets/icons/stackoverflow.svg" width="32" alt="Stack Overflow" /></a>
+<a href="https://discord.gg/EU8BY4B3S"><img src="./assets/icons/discord.svg" width="32" alt="Discord" /></a>
