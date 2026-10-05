@@ -66,5 +66,5 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 <a href="https://discord.gg/EU8BY4B3S"><img src="./assets/icons/discord.svg?v=2" width="40" alt="Discord" /></a>
 
 <div align="center">
-<img src="./assets/mega-charizard-x.gif" width="320" alt="Animated blue Mega Charizard X sprite" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/charizard-megax.gif" width="320" alt="Animated retro Mega Charizard X sprite" />
 </div>
