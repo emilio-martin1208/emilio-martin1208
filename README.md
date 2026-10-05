@@ -64,3 +64,7 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 <a href="mailto:emilio.martin1208@gmail.com"><img src="./assets/icons/gmail.svg?v=2" width="40" alt="Email Emilio" /></a>
 <a href="https://stackoverflow.com/users/22323073/dyno-mart-46"><img src="./assets/icons/stackoverflow.svg?v=2" width="40" alt="Stack Overflow" /></a>
 <a href="https://discord.gg/EU8BY4B3S"><img src="./assets/icons/discord.svg?v=2" width="40" alt="Discord" /></a>
+
+<div align="center">
+<img src="./assets/mega-charizard-x.gif" width="320" alt="Animated blue Mega Charizard X sprite" />
+</div>
