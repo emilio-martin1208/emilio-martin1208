@@ -66,5 +66,5 @@ Canada-first navigation for journeys that ordinary maps miss. Laneway connects t
 <a href="https://discord.gg/EU8BY4B3S"><img src="./assets/icons/discord.svg?v=2" width="40" alt="Discord" /></a>
 
 <div align="center">
-<img src="https://play.pokemonshowdown.com/sprites/ani/charizard.gif" width="320" alt="Animated retro Charizard sprite" />
+<img src="https://play.pokemonshowdown.com/sprites/ani/gyarados.gif" width="320" alt="Animated retro Gyarados sprite" />
 </div>
