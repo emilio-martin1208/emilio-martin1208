@@ -65,7 +65,5 @@ The platform where navigation meets userdata, and verified trips are the number 
 <a href="https://discord.gg/EU8BY4B3S"><img src="./assets/icons/discord.svg?v=2" width="40" alt="Discord" /></a>
 
 <div align="center">
-<a href="https://www.pixilart.com/art/splash-4e773de3fe082fe"><img src="./assets/magikarp-splash.gif" width="320" alt="Animated retro Magikarp splash sprite by SirIsaac1313" /></a>
-<br />
-<sub>Animation by <a href="https://www.pixilart.com/art/splash-4e773de3fe082fe">SirIsaac1313</a>.</sub>
+<img src="./assets/magikarp-splash.gif" width="235" alt="Animated transparent 16-bit Magikarp sprite" />
 </div>
