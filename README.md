@@ -12,8 +12,7 @@ I build end-to-end products: product direction, interfaces, APIs, model behaviou
 
 ### [Laneway](https://lanewayapp.github.io)
 
-Canada-first navigation for journeys that ordinary maps miss. Laneway connects the real-world edges between routes—terminal navigation, airport shuttles, hotel vans—while showing what the system can and cannot verify.
-
+The platform where navigation meets userdata, and verified trips are the number one concern. Pre seed round open, beta out soon. 
 `Swift` `SwiftUI` `Python` `FastAPI` `PostgreSQL` `Redis` `Anthropic`
 
 ## Selected projects
