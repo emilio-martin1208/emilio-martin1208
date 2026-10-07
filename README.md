@@ -11,7 +11,7 @@ I build end-to-end products: product direction, interfaces, APIs, model behaviou
 ## Co-Founding Growth
 
 ### [Laneway](https://lanewayapp.github.io)
-
+"Everything in Between"
 The platform where navigation meets userdata, and verified trips are the number one concern. Pre seed round open, beta out soon. 
 `Swift` `SwiftUI` `Python` `FastAPI` `PostgreSQL` `Redis` `Anthropic`
 
